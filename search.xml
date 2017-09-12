@@ -3,18 +3,12 @@
   
     
     <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>/2017/09/05/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
+      <title></title>
+      <url>/2017/09/05/first/</url>
+      <content type="html"><![CDATA[<hr>
+<h2 id="决定了，加油"><a href="#决定了，加油" class="headerlink" title="决定了，加油"></a>决定了，加油</h2><p> 兜兜圈圈，转转悠悠，本人17届毕业，在湖北一个非知名的二本院校读的软件工程，大学生活并没有想象的那么美好，但是也还是过的不错的，在旁边的同学影响下开始学习Android，本身就是计算机专业，但是有一定的基础可以去学习，开始学习还是感觉非常有趣的，主要是通过黑马视频教学，和各种找网络资源视频去学习，很少看书，觉得挺可惜，学习的是只有其形而不得其神呀，而且当时学习也是两天打渔三天晒网的状态，现在想想悔恨当初，在我所在的所大学，我还算好的，知道学习点东西，大四就直接去一家公司实习，做了大半年，从入职的3k，到后来的5k，毕业了回校答辩，就再也没有回去过，</p>
+<h2 id="学习内容"><a href="#学习内容" class="headerlink" title="学习内容"></a>学习内容</h2><h3 id="数据机构"><a href="#数据机构" class="headerlink" title="数据机构"></a>数据机构</h3><p>必须学的一样东西，如果你真心想从事IT行业，越到级别这个要求是越高的，从简单的排序，到堆栈，。。</p>
+<h3 id="设计模式"><a href="#设计模式" class="headerlink" title="设计模式"></a>设计模式</h3><h3 id="Java基础"><a href="#Java基础" class="headerlink" title="Java基础"></a>Java基础</h3><h3 id="Android内容"><a href="#Android内容" class="headerlink" title="Android内容"></a>Android内容</h3><h3 id="坚持的心态"><a href="#坚持的心态" class="headerlink" title="坚持的心态"></a>坚持的心态</h3>]]></content>
       
         
     </entry>
