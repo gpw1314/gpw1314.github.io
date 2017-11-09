@@ -132,8 +132,7 @@
 </ul>
 <p>在 Activity 在重新创建时候，系统会调用onRestoreInstanceState()，并把Activity摧毁时onSaveInstanceState() 方法保存的Bundle对象作为参数同时传给onRestoreInstanceState()和onCreate()<br>,onRestoreInstanceState()调用的时机，log打印是在onStart()之后。。看下图在onCreate也可以恢复该数据，不过需要判断bundle是否为空，因为onCreate在新创建的时候也会被调用。</p>
 <p>下图是保存，恢复数据的周期图<br><img src="https://i.imgur.com/bPJpZ6i.png" alt=""></p>
-<p>###Activity不同情况跳转情况</p>
-<ul>
+<h3 id="Activity不同情况跳转情况"><a href="#Activity不同情况跳转情况" class="headerlink" title="Activity不同情况跳转情况"></a>Activity不同情况跳转情况</h3><ul>
 <li>正常启动</li>
 </ul>
 <p>onCreate() –&gt; onStart() –&gt; onResume()  </p>
